@@ -1,7 +1,7 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC # Data Privacy Demo - Environment Setup
-# MAGIC 
+# MAGIC
 # MAGIC This script sets up the demo environment. It is called automatically by the main demo notebook.
 
 # COMMAND ----------
