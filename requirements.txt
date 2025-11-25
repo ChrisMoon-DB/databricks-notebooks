@@ -1,0 +1,26 @@
+# Databricks Data Privacy Notebooks - Python Dependencies
+
+# Core dependencies (typically pre-installed in Databricks Runtime)
+pyspark>=3.3.0
+
+# Utilities for data generation and testing
+faker>=18.0.0
+
+# Type hints and validation
+typing-extensions>=4.5.0
+
+# For development and testing
+pytest>=7.3.0
+pytest-cov>=4.0.0
+
+# Jupyter notebook support (for local development)
+ipykernel>=6.22.0
+notebook>=6.5.0
+
+# Data privacy and security utilities
+cryptography>=40.0.0
+
+# Note: Most packages are already included in Databricks Runtime
+# This file is primarily for local development and testing
+# In Databricks, you can install packages via the cluster UI or %pip magic commands
+
